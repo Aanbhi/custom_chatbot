@@ -1,4 +1,4 @@
-# 🤖 LangChain Brainlox Chatbot
+# 🤖 LangChain  Chatbot
 
 A custom chatbot built using LangChain to extract and converse over data scraped from Brainlox courses.
 
